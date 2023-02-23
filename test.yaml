@@ -1,0 +1,7 @@
+kind: Secret
+apiVersion: v1
+metadata:
+  name: example-secret
+type: Opaque
+data:
+  password: <path:argo_test_secret#test_key>
