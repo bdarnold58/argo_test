@@ -1,1 +1,5 @@
+# defaults
 
+namespace: test
+
+secret_path: <path:argo_test_secret#test_key>
