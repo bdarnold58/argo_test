@@ -1,3 +1,9 @@
 apiVersion: v2
 name: helm-inline-placeholder
 description: A test chart for testing argocd-vault-plugin
+
+type: application
+
+version: 0.1.0
+
+appVersion: "1.0"
